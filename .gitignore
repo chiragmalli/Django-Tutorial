@@ -1,0 +1,6 @@
+/.git
+/.idea
+db.sqlite3
+/music/migrations
+/music/__pycache__
+/website/__pycache__
